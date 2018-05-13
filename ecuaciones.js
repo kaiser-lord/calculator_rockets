@@ -1,3 +1,4 @@
+<script type="text/javascript">
 function calcVmax(){
 
 	var wb=parseFloat(document.getElementById("wb").value);
@@ -201,3 +202,4 @@ function calcA(){
 	document.getElementById('a').textContent =a.toString();
 	return true;
 }
+</script>
