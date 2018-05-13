@@ -1,0 +1,32 @@
+#tdensidad {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#tdensidadCaption {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+#tdensidadtd, #tdensidadth {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+#tdensidadtr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+input{
+	border-radius: 5px 5px 5px 5px;
+}
+.result{
+	
+	background-color: #ffff0f;
+	color: black;
+	border:2px;
+	border-color: #000000;
+	border-radius: 3px;
+	margin-top: 10px;
+	padding: 5px;
+	font-size: 14px;
+}
